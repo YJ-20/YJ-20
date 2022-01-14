@@ -10,6 +10,7 @@ Techs that I've used at least once
 <a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>
 <a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>
+<a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
 <a href="https://www.github.com/YJ-20/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YJ-20)](https://github.com/anuraghazra/github-readme-stats)
