@@ -2,7 +2,7 @@
 - Interested in: Data Analysis, Financial Engineering, Machine Learning included Deep Learning.
 - Publication: [Stock market forecasting using a multi-task approach integrating long short-term memory and the random forest framework](https://doi.org/10.1016/j.asoc.2021.108106), *Applied Soft Computing*, Volume 114, Jan 2022.
 - Currently Study: Sign Language Translation with Deep Learning
-- How to reach me: kht62@yonsei.ac.kr [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kht62@yonsei.ac.kr)](mailto:kht62@yonsei.ac.kr) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/younjun-kim/)](https://www.linkedin.com/in/younjun-kim/)
+- How to reach me: ai.yjun42@gmail.com [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ai.yjun42@gmail.com)](mailto:ai.yjun42@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/younjun-kim/)](https://www.linkedin.com/in/younjun-kim/)
 
 <h4> 🔨Stack🔧 </h4>
 Techs that I've used at least once
